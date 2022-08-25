@@ -1,0 +1,67 @@
+.root-form {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+form {
+    border: solid 1px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin: 35px 220px 0px 0px;
+    border-radius: 11px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.form-wapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.position-text {
+    width: 300px;
+}
+
+.form-textarea {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 24px 75px 26px 124px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+h6 {
+    margin: 9px 22px 0px 0px;
+}
+
+.indicator {
+    display: flex;
+}
+
+.segmented-control {
+    border: solid 1px;
+    border-radius: 20px !important;
+    color: white;
+}
+
+.result{
+    display: flex;
+    justify-content: center;
+}
+
